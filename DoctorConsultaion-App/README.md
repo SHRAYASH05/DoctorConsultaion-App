@@ -1,9 +1,3 @@
-# medical_appointment
-
-Time spent: 2 hrs 26 mins 45 secs || contact me: @cybdom (twitter) - contact@cybdom.tech (email)
-
-Buy me coffee => https://www.buymeacoffee.com/bi3cp0Zk5
-
 Results:
 
 <img src="screenshot_1.png" height="480px"> 
